@@ -1,0 +1,52 @@
+﻿{
+  "parent": {
+    "database_id": "ee761ae157e346b88ef3fd58ba9146d3"
+  },
+  "properties": {
+    "コンテンツ名": {
+      "title": [
+        {
+          "text": {
+            "content": "新しいコンテンツの値"
+          }
+        }
+      ]
+    },
+    "カタログ": {
+      "rich_text": [
+        {
+          "text": {
+            "content": "新しいカタログの値"
+          }
+        }
+      ]
+    },
+    "ハッシュ": {
+      "rich_text": [
+        {
+          "text": {
+            "content": "新しいハッシュの値"
+          }
+        }
+      ]
+    },
+    "バンドル": {
+      "rich_text": [
+        {
+          "text": {
+            "content": "新しいバンドルの値"
+          }
+        }
+      ]
+    },
+    "全アドレス": {
+      "rich_text": [
+        {
+          "text": {
+            "content": "新しいアドレスの値"
+          }
+        }
+      ]
+    }
+  }
+}

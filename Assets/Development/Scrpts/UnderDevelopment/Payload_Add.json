@@ -1,0 +1,32 @@
+﻿{
+  "parent": { "database_id": "" },
+  "properties": {
+    "IP": {
+      "rich_text": [
+        {
+          "text": {
+            "content": "新しいIP値"
+          }
+        }
+      ]
+    },
+    "Port": {
+      "rich_text": [
+        {
+          "text": {
+            "content": "新しいPort値"
+          }
+        }
+      ]
+    },
+    "DayTime": {
+      "title": [
+        {
+          "text": {
+            "content": "11111"
+          }
+        }
+      ]
+    }
+  }
+}
