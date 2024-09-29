@@ -239,55 +239,6 @@ MonoBehaviour:
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
   m_SoftShadowQuality: 0
---- !u!1 &1082660816
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1082660818}
-  - component: {fileID: 1082660817}
-  m_Layer: 0
-  m_Name: MTConverter_Standard_URPLit
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 0
---- !u!114 &1082660817
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1082660816}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 920ee74a887159746bf9a585af671531, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  targets:
-  - {fileID: -9202605092671148497, guid: e2f9748505d6f6d4db95968536f605cc, type: 3}
-  - {fileID: -9202605092671148497, guid: 55b8312cb67970a4b9962a6b75942380, type: 3}
-  - {fileID: -9202605092671148497, guid: f8883cdf38d806249bf4fdd78858c258, type: 3}
-  toExport: 1
---- !u!4 &1082660818
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1082660816}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.6, y: 1.9618, z: 1.8755813}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1464445255
 GameObject:
   m_ObjectHideFlags: 0
@@ -528,6 +479,5 @@ SceneRoots:
   m_Roots:
   - {fileID: 1464445258}
   - {fileID: 129630326}
-  - {fileID: 1082660818}
   - {fileID: 1508289603}
   - {fileID: 6156992054235927933}
